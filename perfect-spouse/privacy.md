@@ -21,7 +21,7 @@
 אין באפליקציה פרסומות, ניתוח שימוש (אנליטיקס) או מעקב.
 
 ## יצירת קשר
-שאלות ובקשות בנושא פרטיות: https://github.com/tpinchasi/general/issues
+שאלות ובקשות בנושא פרטיות: tomer.pinchassi@gmail.com
 
 ---
 
@@ -59,4 +59,5 @@ Everything can be deleted in Settings, and is deleted with the app.
 The app has no ads, analytics or tracking.
 
 ## Contact
-Questions and requests about privacy: https://github.com/tpinchasi/general/issues
+Questions and requests about privacy:  tomer.pinchassi@gmail.com
+

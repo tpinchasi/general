@@ -1,14 +1,17 @@
-# מדיניות פרטיות — שמתי לב
+# מדיניות פרטיות — EasyLife
 
-עודכן: 14 באוקטובר 2026
+עודכן: 15 באוקטובר 2026
 
-"שמתי לב" מסכמת את השיחות וההודעות שלך עם האנשים שבחרת, ומזכירה לך מה ביקשו ממך. **הכול קורה בטלפון שלך: שום דבר לא נשלח אלינו או לאף אחד אחר.**
+EasyLife מסכמת את השיחות וההודעות שלך עם האנשים שבחרת, ומזכירה לך מה ביקשו ממך. **הכול קורה בטלפון שלך: שום דבר לא נשלח אלינו או לאף אחד אחר.**
 
 ## מה האפליקציה קוראת
 רק של האנשים והקבוצות שבחרת לעקוב אחריהם:
 - **הקלטות שיחות** שהטלפון שומר (בסמסונג: הקלטה אוטומטית), כדי לתמלל ולסכם אותן.
 - **הודעות וואטסאפ ו-SMS** מההתראות שלהן, ואם בחרת לחבר את וואטסאפ, ישירות מוואטסאפ כמכשיר מקושר.
 - **הודעות קוליות, תמונות, סרטונים קצרים ומסמכים** שנשלחו בהן, מהתיקייה של וואטסאפ שבחרת או מוואטסאפ עצמו.
+- **מיילים ב-Gmail**, מההתראות שלהם (השולח, הנושא ותחילת המייל): מהאנשים שבחרת — כולם; משולחים אחרים — רק תורים, תשלומים ומועדים, בלי פרסומות. שולח שחסמת לא נקרא.
+- **תזכורות שאמרת בקול**: המיקרופון מקליט רק כשלוחצים ״תזכורת קולית״. ההקלטה נכתבת בטלפון ונמחקת מיד.
+- **רשימת הקניות ובני המשפחה** שהוספת (שמות, כינויים והקבוצות שקשורות אליהם) נשמרים בטלפון בלבד. הרשימה נשלחת רק כשלוחצים ״לשלוח״, למי שבוחרים.
 - **מה שכתבת** על כל אדם (מי הוא, מה חשוב לך).
 
 ## מה נשמר, ואיפה
@@ -25,11 +28,11 @@
 
 ---
 
-# Privacy policy — Perfect Spouse (שמתי לב)
+# Privacy policy — EasyLife
 
-Updated: 14 October 2026
+Updated: 15 October 2026
 
-Perfect Spouse summarizes your calls and messages with the people you choose,
+EasyLife summarizes your calls and messages with the people you choose,
 and reminds you of what they asked of you. **Everything happens on your phone:
 nothing is sent to us or to anyone else.**
 
@@ -41,7 +44,17 @@ Only for the people and groups you chose to follow:
   to link WhatsApp, from WhatsApp directly, as a linked device.
 - **Voice messages, pictures, short videos and documents** sent in them, from
   the WhatsApp folder you picked or from WhatsApp itself.
+- **Gmail emails**, from their notifications (the sender, the subject and the
+  start of the email): every one from the people you chose; from other
+  senders, only appointments, payments and deadlines, never ads. Senders you
+  blocked aren't read.
+- **Reminders you say aloud**: the microphone records only when you tap
+  "תזכורת קולית". The recording is written down on the phone and deleted
+  right away.
 - **What you wrote** about each person (who they are, what matters to you).
+- **Your shopping list and family members** (names, nicknames and the groups
+  linked to them), kept on the phone only. The list is sent only when you tap
+  "לשלוח", to whom you choose.
 
 ## What's kept, and where
 Transcripts, summaries, reminders and details worth remembering are kept

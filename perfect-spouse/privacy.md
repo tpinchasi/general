@@ -23,7 +23,7 @@ IFocus מסכמת את השיחות וההודעות שלך עם האנשים ש
 - **הורדת המודלים** (לסיכום ולקריאת תמונות) בהפעלה הראשונה, מ-Hugging Face. לא נשלח שום מידע עליך.
 - **וואטסאפ מקושר**, אם בחרת בו: האפליקציה מתחברת לשרתים של וואטסאפ בשם החשבון שלך, כמו וואטסאפ ווב, כדי לקבל את ההודעות. זה חיבור לא רשמי, ווואטסאפ עלולה להגביל אותו.
 - **קישורים למסמכים של Google** (Docs,‏ Sheets,‏ Slides, קבצים ב-Drive) בהודעות: האפליקציה מורידה את המסמך מ-Google כדי לקרוא אותו בטלפון, רק אם הוא פתוח לכל מי שיש לו את הקישור, ובלי חשבון. נשלחת רק הבקשה למסמך. אפשר לכבות את זה בהגדרות.
-- **רישום בגיליון של Google**, אם בחרת: בפעם הראשונה שלוחצים ״לרשום״ בגיליון, Google מבקש ממך לאשר לאפליקציה לערוך את הגיליונות שלך. האפליקציה כותבת רק כשלוחצים ״לרשום״: את הטקסט שאישרת, בתא ריק שבחרת, בגיליון שנשלח אליך — ישירות מהטלפון ל-Google. היא לא קוראת גיליונות אחרים, לא שומרת מהם דבר ולא שולחת לנו כלום. אפשר לבטל את האישור בהגדרות (״לנתק״) או בחשבון Google.
+- **רישום בגיליון של Google**, אם בחרת: בפעם הראשונה שלוחצים ״לרשום״ בגיליון, Google מבקש ממך לאשר לאפליקציה לערוך את הגיליונות שלך. האפליקציה כותבת רק כשלוחצים ״לרשום״: את הטקסט שאישרת, בתא ריק שבחרת, בגיליון שנשלח אליך — ישירות מהטלפון ל-Google. היא קוראת רק את התא הזה, כדי לוודא שהוא ריק ושהטקסט נכתב; ״לבטל״ מוחק ממנו את מה שהיא כתבה. היא לא קוראת גיליונות או תאים אחרים בחשבון שלך, לא שומרת מהם דבר ולא שולחת לנו כלום. בטלפון נשמרת רק כתובת חשבון Google שאישר, כדי להציג אותה בהגדרות; את האישור עצמו מחזיקים שירותי Google Play בטלפון. אפשר לבטל את האישור בהגדרות (״לנתק״) או בחשבון Google.
 
 השימוש של IFocus במידע שמתקבל מממשקי ה-API של Google, והעברתו לכל אפליקציה אחרת, יעמדו ב-[Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), כולל דרישות ה-Limited Use.
 
@@ -92,8 +92,12 @@ Everything can be deleted in Settings, and is deleted with the app.
   "לרשום" in a sheet, Google asks you to allow the app to edit your Google
   Sheets. The app writes only when you tap "לרשום": the text you approved,
   in an empty cell you chose, in a sheet that was sent to you — straight from
-  the phone to Google. It doesn't read other sheets, keeps nothing from them,
-  and sends nothing to us. You can take the permission back in Settings
+  the phone to Google. It reads only that cell, to check it's empty and that
+  the text was written; "לבטל" (undo) clears what it wrote there. It doesn't
+  read other sheets or cells in your account, keeps nothing from them, and
+  sends nothing to us. The phone keeps only the address of the Google account
+  that gave the permission, to show it in Settings; the permission itself is
+  held by Google Play services on the phone. You can take it back in Settings
   ("לנתק") or in your Google Account.
 
 IFocus's use and transfer to any other app of information received from

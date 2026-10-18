@@ -1,8 +1,8 @@
-# מדיניות פרטיות — EasyLife
+# מדיניות פרטיות — IFocus
 
-עודכן: 15 באוקטובר 2026
+עודכן: 18 באוקטובר 2026
 
-EasyLife מסכמת את השיחות וההודעות שלך עם האנשים שבחרת, ומזכירה לך מה ביקשו ממך. **הכול קורה בטלפון שלך: שום דבר לא נשלח אלינו או לאף אחד אחר.**
+IFocus מסכמת את השיחות וההודעות שלך עם האנשים שבחרת, ומזכירה לך מה ביקשו ממך. **הכול קורה בטלפון שלך: שום דבר לא נשלח אלינו.** מה שיוצא מהטלפון — רק מה שמפורט למטה, ב״חיבורים לרשת״.
 
 ## מה האפליקציה קוראת
 רק של האנשים והקבוצות שבחרת לעקוב אחריהם:
@@ -13,6 +13,8 @@ EasyLife מסכמת את השיחות וההודעות שלך עם האנשים 
 - **תזכורות שאמרת בקול**: המיקרופון מקליט רק כשלוחצים ״תזכורת קולית״. ההקלטה נכתבת בטלפון ונמחקת מיד.
 - **רשימת הקניות ובני המשפחה** שהוספת (שמות, כינויים והקבוצות שקשורות אליהם) נשמרים בטלפון בלבד. הרשימה נשלחת רק כשלוחצים ״לשלוח״, למי שבוחרים.
 - **מה שכתבת** על כל אדם (מי הוא, מה חשוב לך).
+- **מה ששיתפת לאפליקציה** (תמונה, PDF, קובץ Word, ‏Excel או PowerPoint, קישור או טקסט): נקרא ונשמר בטלפון, עם ההודעות של האדם או הקבוצה שבחרת.
+- **היומן שלך**, אם בחרת להוסיף אליו אירועים: האפליקציה קוראת ממנו רק את רשימת היומנים (כדי שתבחר) ואת האירועים שהיא עצמה הוסיפה. היא מוסיפה ליומן שבחרת אירועים של האנשים והקבוצות שבחרת, ומעדכנת או מוחקת רק את מה שהיא הוסיפה. את הסנכרון לחשבון שלך עושה אפליקציית היומן.
 
 ## מה נשמר, ואיפה
 התמלולים, הסיכומים, התזכורות ופרטים ששווה לזכור נשמרים **רק בטלפון**, באחסון של האפליקציה. הודעות, סיכומים ותמלולים נשמרים שבוע; תזכורות ואירועים פתוחים נשמרים עד שמסמנים אותם. אפשר למחוק הכול בהגדרות, והכול נמחק עם הסרת האפליקציה.
@@ -20,6 +22,10 @@ EasyLife מסכמת את השיחות וההודעות שלך עם האנשים 
 ## חיבורים לרשת
 - **הורדת המודלים** (לסיכום ולקריאת תמונות) בהפעלה הראשונה, מ-Hugging Face. לא נשלח שום מידע עליך.
 - **וואטסאפ מקושר**, אם בחרת בו: האפליקציה מתחברת לשרתים של וואטסאפ בשם החשבון שלך, כמו וואטסאפ ווב, כדי לקבל את ההודעות. זה חיבור לא רשמי, ווואטסאפ עלולה להגביל אותו.
+- **קישורים למסמכים של Google** (Docs,‏ Sheets,‏ Slides, קבצים ב-Drive) בהודעות: האפליקציה מורידה את המסמך מ-Google כדי לקרוא אותו בטלפון, רק אם הוא פתוח לכל מי שיש לו את הקישור, ובלי חשבון. נשלחת רק הבקשה למסמך. אפשר לכבות את זה בהגדרות.
+- **רישום בגיליון של Google**, אם בחרת: בפעם הראשונה שלוחצים ״לרשום״ בגיליון, Google מבקש ממך לאשר לאפליקציה לערוך את הגיליונות שלך. האפליקציה כותבת רק כשלוחצים ״לרשום״: את הטקסט שאישרת, בתא ריק שבחרת, בגיליון שנשלח אליך — ישירות מהטלפון ל-Google. היא לא קוראת גיליונות אחרים, לא שומרת מהם דבר ולא שולחת לנו כלום. אפשר לבטל את האישור בהגדרות (״לנתק״) או בחשבון Google.
+
+השימוש של IFocus במידע שמתקבל מממשקי ה-API של Google, והעברתו לכל אפליקציה אחרת, יעמדו ב-[Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), כולל דרישות ה-Limited Use.
 
 אין באפליקציה פרסומות, ניתוח שימוש (אנליטיקס) או מעקב.
 
@@ -28,13 +34,14 @@ EasyLife מסכמת את השיחות וההודעות שלך עם האנשים 
 
 ---
 
-# Privacy policy — EasyLife
+# Privacy policy — IFocus
 
-Updated: 15 October 2026
+Updated: 18 October 2026
 
-EasyLife summarizes your calls and messages with the people you choose,
+IFocus summarizes your calls and messages with the people you choose,
 and reminds you of what they asked of you. **Everything happens on your phone:
-nothing is sent to us or to anyone else.**
+nothing is sent to us.** What leaves your phone is only what's listed under
+"Network use".
 
 ## What the app reads
 Only for the people and groups you chose to follow:
@@ -55,6 +62,14 @@ Only for the people and groups you chose to follow:
 - **Your shopping list and family members** (names, nicknames and the groups
   linked to them), kept on the phone only. The list is sent only when you tap
   "לשלוח", to whom you choose.
+- **What you share into the app** (a picture, a PDF, a Word, Excel or
+  PowerPoint file, a link or text): read and kept on the phone, with the
+  messages of the person or group you choose.
+- **Your calendar**, if you choose to add events to it: the app reads only the
+  list of calendars (for you to pick one) and the events it added itself. It
+  adds the events of the people and groups you chose to the calendar you
+  picked, and changes or deletes only what it added. Your calendar app syncs
+  it to your account.
 
 ## What's kept, and where
 Transcripts, summaries, reminders and details worth remembering are kept
@@ -68,6 +83,23 @@ Everything can be deleted in Settings, and is deleted with the app.
 - **Linked WhatsApp**, if you chose it: the app connects to WhatsApp's servers
   with your account, as WhatsApp Web does, to receive your messages. It's an
   unofficial connection, and WhatsApp may restrict it.
+- **Links to Google documents** (Docs, Sheets, Slides, Drive files) in
+  messages: the app downloads the document from Google to read it on the
+  phone, only if anyone with the link may open it, and without an account.
+  Only the request for the document is sent. This can be turned off in
+  Settings.
+- **Signing up in a Google sheet**, if you choose to: the first time you tap
+  "לרשום" in a sheet, Google asks you to allow the app to edit your Google
+  Sheets. The app writes only when you tap "לרשום": the text you approved,
+  in an empty cell you chose, in a sheet that was sent to you — straight from
+  the phone to Google. It doesn't read other sheets, keeps nothing from them,
+  and sends nothing to us. You can take the permission back in Settings
+  ("לנתק") or in your Google Account.
+
+IFocus's use and transfer to any other app of information received from
+Google APIs will adhere to the
+[Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy),
+including the Limited Use requirements.
 
 The app has no ads, analytics or tracking.
 

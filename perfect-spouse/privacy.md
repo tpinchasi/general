@@ -1,6 +1,6 @@
 # מדיניות פרטיות — IFocus
 
-עודכן: 18 באוקטובר 2026
+עודכן: 19 באוקטובר 2026
 
 IFocus מסכמת את השיחות וההודעות שלך עם האנשים שבחרת, ומזכירה לך מה ביקשו ממך. **הכול קורה בטלפון שלך: שום דבר לא נשלח אלינו.** מה שיוצא מהטלפון — רק מה שמפורט למטה, ב״חיבורים לרשת״.
 
@@ -25,6 +25,8 @@ IFocus מסכמת את השיחות וההודעות שלך עם האנשים ש
 - **קישורים למסמכים של Google** (Docs,‏ Sheets,‏ Slides, קבצים ב-Drive) בהודעות: האפליקציה מורידה את המסמך מ-Google כדי לקרוא אותו בטלפון, רק אם הוא פתוח לכל מי שיש לו את הקישור, ובלי חשבון. נשלחת רק הבקשה למסמך. אפשר לכבות את זה בהגדרות.
 - **רישום בגיליון של Google**, אם בחרת: בפעם הראשונה שלוחצים ״לרשום״ בגיליון, Google מבקש ממך לאשר לאפליקציה לערוך את הגיליונות שלך. האפליקציה כותבת רק כשלוחצים ״לרשום״: את הטקסט שאישרת, בתא ריק שבחרת, בגיליון שנשלח אליך — ישירות מהטלפון ל-Google. היא קוראת רק את התא הזה, כדי לוודא שהוא ריק ושהטקסט נכתב; ״לבטל״ מוחק ממנו את מה שהיא כתבה. היא לא קוראת גיליונות או תאים אחרים בחשבון שלך, לא שומרת מהם דבר ולא שולחת לנו כלום. בטלפון נשמרת רק כתובת חשבון Google שאישר, כדי להציג אותה בהגדרות; את האישור עצמו מחזיקים שירותי Google Play בטלפון. אפשר לבטל את האישור בהגדרות (״לנתק״) או בחשבון Google.
 
+- **שיתוף בקבוצות**, אם יצרת קבוצת שיתוף או הצטרפת לאחת: מה שבחרת לשתף — משימות, אירועים ופריטים של רשימות — נשמר בגיליון ב-Google Drive של מי שיצר את הקבוצה, וכל חברי הקבוצה קוראים וכותבים בו, ישירות מהטלפון ל-Google. לשם כך Google מבקש ממך אישור לגיליונות, ולמי שיוצר קבוצה גם לקבצים שהאפליקציה עצמה יוצרת ב-Drive (לא לשאר הקבצים שלך). בגיליון נשמרים גם השם וכתובת ה-Google של כל חבר. כשמזמינים, הגיליון פתוח לכל מי שיש לו את הקישור למשך יומיים, ואחר כך רק לחברי הקבוצה. אם כתבת לקבוצה מה לשתף בה מעצמו, המודל שבטלפון בוחר אילו משימות חדשות מתאימות. יציאה מקבוצה מוחקת מהטלפון את מה ששותף בה; מחיקת קבוצה מעבירה את הגיליון לאשפה ב-Drive.
+
 השימוש של IFocus במידע שמתקבל מממשקי ה-API של Google, והעברתו לכל אפליקציה אחרת, יעמדו ב-[Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), כולל דרישות ה-Limited Use.
 
 אין באפליקציה פרסומות, ניתוח שימוש (אנליטיקס) או מעקב.
@@ -36,7 +38,7 @@ IFocus מסכמת את השיחות וההודעות שלך עם האנשים ש
 
 # Privacy policy — IFocus
 
-Updated: 18 October 2026
+Updated: 19 October 2026
 
 IFocus summarizes your calls and messages with the people you choose,
 and reminds you of what they asked of you. **Everything happens on your phone:
@@ -99,6 +101,18 @@ Everything can be deleted in Settings, and is deleted with the app.
   that gave the permission, to show it in Settings; the permission itself is
   held by Google Play services on the phone. You can take it back in Settings
   ("לנתק") or in your Google Account.
+
+- **Sharing with groups**, if you create a sharing group or join one: what
+  you choose to share — tasks, events and list items — is kept in a sheet in
+  the Google Drive of whoever created the group, which every member's app
+  reads and writes, straight from the phone to Google. For this, Google asks
+  your permission for your sheets, and, to create a group, for the files the
+  app itself creates in Drive (not your other files). The sheet also holds
+  each member's name and Google address. An invitation opens the sheet to
+  anyone with its link for two days; after that, only to the group's members.
+  If you wrote what a group shares by itself, the model on the phone picks
+  which new tasks fit. Leaving a group deletes what was shared in it from the
+  phone; deleting a group moves its sheet to Drive's trash.
 
 IFocus's use and transfer to any other app of information received from
 Google APIs will adhere to the

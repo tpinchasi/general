@@ -10,7 +10,7 @@ IFocus מסכמת את השיחות וההודעות שלך עם האנשים ש
 - **הודעות וואטסאפ ו-SMS** מההתראות שלהן, ואם בחרת לחבר את וואטסאפ, ישירות מוואטסאפ כמכשיר מקושר.
 - **הודעות קוליות, תמונות, סרטונים קצרים ומסמכים** שנשלחו בהן, מהתיקייה של וואטסאפ שבחרת או מוואטסאפ עצמו.
 - **מיילים ב-Gmail**, מההתראות שלהם (השולח, הנושא ותחילת המייל): מהאנשים שבחרת — כולם; משולחים אחרים — רק תורים, תשלומים ומועדים, בלי פרסומות. שולח שחסמת לא נקרא.
-- **תזכורות שאמרת בקול**: המיקרופון מקליט רק כשלוחצים ״תזכורת קולית״. ההקלטה נכתבת בטלפון ונמחקת מיד.
+- **מה שאמרת בקול**: המיקרופון מקליט רק כשלוחצים עליו — ״תזכורת קולית״, או המיקרופון בחיפוש ובעזרה. ברכב, או עם אוזניות Bluetooth, ההקלטה היא דרך המיקרופון שלהם. ההקלטה נכתבת בטלפון ונמחקת מיד.
 - **רשימת הקניות ובני המשפחה** שהוספת (שמות, כינויים והקבוצות שקשורות אליהם) נשמרים בטלפון בלבד. הרשימה נשלחת רק כשלוחצים ״לשלוח״, למי שבוחרים.
 - **מה שכתבת** על כל אדם (מי הוא, מה חשוב לך).
 - **מה ששיתפת לאפליקציה** (תמונה, PDF, קובץ Word, ‏Excel או PowerPoint, קישור או טקסט): נקרא ונשמר בטלפון, עם ההודעות של האדם או הקבוצה שבחרת.
@@ -57,9 +57,10 @@ Only for the people and groups you chose to follow:
   start of the email): every one from the people you chose; from other
   senders, only appointments, payments and deadlines, never ads. Senders you
   blocked aren't read.
-- **Reminders you say aloud**: the microphone records only when you tap
-  "תזכורת קולית". The recording is written down on the phone and deleted
-  right away.
+- **What you say aloud**: the microphone records only when you tap it —
+  "תזכורת קולית", or the microphone in search and in the help. In the car,
+  or with Bluetooth headphones, it records through their microphone. The
+  recording is written down on the phone and deleted right away.
 - **What you wrote** about each person (who they are, what matters to you).
 - **Your shopping list and family members** (names, nicknames and the groups
   linked to them), kept on the phone only. The list is sent only when you tap

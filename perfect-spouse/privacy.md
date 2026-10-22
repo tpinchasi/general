@@ -1,6 +1,6 @@
 # מדיניות פרטיות — IFocus
 
-עודכן: 20 באוקטובר 2026
+עודכן: 22 באוקטובר 2026
 
 IFocus מסכמת את השיחות וההודעות שלך עם האנשים שבחרת, ומזכירה לך מה ביקשו ממך. **הכול קורה בטלפון שלך: שום דבר לא נשלח אלינו.** מה שיוצא מהטלפון — רק מה שמפורט למטה, ב״חיבורים לרשת״.
 
@@ -20,7 +20,7 @@ IFocus מסכמת את השיחות וההודעות שלך עם האנשים ש
 התמלולים, הסיכומים, התזכורות ופרטים ששווה לזכור נשמרים **רק בטלפון**, באחסון של האפליקציה. הודעות, סיכומים ותמלולים נשמרים שבוע; תזכורות ואירועים פתוחים נשמרים עד שמסמנים אותם. אפשר למחוק הכול בהגדרות, והכול נמחק עם הסרת האפליקציה.
 
 ## חיבורים לרשת
-- **הורדת המודלים** (לסיכום ולקריאת תמונות) בהפעלה הראשונה, מ-Hugging Face. לא נשלח שום מידע עליך.
+- **הורדת המודלים** (לתמלול, לסיכום ולקריאת תמונות) בהפעלה הראשונה, מ-Hugging Face. לא נשלח שום מידע עליך.
 - **וואטסאפ מקושר**, אם בחרת בו: האפליקציה מתחברת לשרתים של וואטסאפ בשם החשבון שלך, כמו וואטסאפ ווב, כדי לקבל את ההודעות. זה חיבור לא רשמי, ווואטסאפ עלולה להגביל אותו.
 - **קישורים למסמכים של Google** (Docs,‏ Sheets,‏ Slides, קבצים ב-Drive) בהודעות: האפליקציה מורידה את המסמך מ-Google כדי לקרוא אותו בטלפון, רק אם הוא פתוח לכל מי שיש לו את הקישור, ובלי חשבון. נשלחת רק הבקשה למסמך. אפשר לכבות את זה בהגדרות.
 - **רישום בגיליון של Google**, אם בחרת: בפעם הראשונה שלוחצים ״לרשום״ בגיליון, Google מבקש ממך לאשר לאפליקציה לערוך את הגיליונות שלך. האפליקציה כותבת רק כשלוחצים ״לרשום״: את הטקסט שאישרת, בתא ריק שבחרת, בגיליון שנשלח אליך — ישירות מהטלפון ל-Google. היא קוראת רק את התא הזה, כדי לוודא שהוא ריק ושהטקסט נכתב; ״לבטל״ מוחק ממנו את מה שהיא כתבה. היא לא קוראת גיליונות או תאים אחרים בחשבון שלך, לא שומרת מהם דבר ולא שולחת לנו כלום. בטלפון נשמרת רק כתובת חשבון Google שאישר, כדי להציג אותה בהגדרות; את האישור עצמו מחזיקים שירותי Google Play בטלפון. אפשר לבטל את האישור בהגדרות (״לנתק״) או בחשבון Google.
@@ -38,7 +38,7 @@ IFocus מסכמת את השיחות וההודעות שלך עם האנשים ש
 
 # Privacy policy — IFocus
 
-Updated: 20 October 2026
+Updated: 22 October 2026
 
 IFocus summarizes your calls and messages with the people you choose,
 and reminds you of what they asked of you. **Everything happens on your phone:
@@ -81,8 +81,8 @@ transcripts are kept for a week; open reminders and events until they're done.
 Everything can be deleted in Settings, and is deleted with the app.
 
 ## Network use
-- **Downloading the models** (for summaries and for reading pictures) on first
-  start, from Hugging Face. Nothing about you is sent.
+- **Downloading the models** (for transcribing, summaries and reading
+  pictures) on first start, from Hugging Face. Nothing about you is sent.
 - **Linked WhatsApp**, if you chose it: the app connects to WhatsApp's servers
   with your account, as WhatsApp Web does, to receive your messages. It's an
   unofficial connection, and WhatsApp may restrict it.

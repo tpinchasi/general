@@ -23,9 +23,9 @@ IFocus מסכמת את השיחות וההודעות שלך עם האנשים ש
 - **הורדת המודלים** (לתמלול, לסיכום ולקריאת תמונות) בהפעלה הראשונה, מ-Hugging Face. לא נשלח שום מידע עליך.
 - **וואטסאפ מקושר**, אם בחרת בו: האפליקציה מתחברת לשרתים של וואטסאפ בשם החשבון שלך, כמו וואטסאפ ווב, כדי לקבל את ההודעות. זה חיבור לא רשמי, ווואטסאפ עלולה להגביל אותו.
 - **קישורים למסמכים של Google** (Docs,‏ Sheets,‏ Slides, קבצים ב-Drive) בהודעות: האפליקציה מורידה את המסמך מ-Google כדי לקרוא אותו בטלפון, רק אם הוא פתוח לכל מי שיש לו את הקישור, ובלי חשבון. נשלחת רק הבקשה למסמך. אפשר לכבות את זה בהגדרות.
-- **רישום בגיליון של Google**, אם בחרת: בפעם הראשונה שלוחצים ״לרשום״ בגיליון, Google מבקש ממך לאשר לאפליקציה לערוך את הגיליונות שלך. האפליקציה כותבת רק כשלוחצים ״לרשום״: את הטקסט שאישרת, בתא ריק שבחרת, בגיליון שנשלח אליך — ישירות מהטלפון ל-Google. היא קוראת רק את התא הזה, כדי לוודא שהוא ריק ושהטקסט נכתב; ״לבטל״ מוחק ממנו את מה שהיא כתבה. היא לא קוראת גיליונות או תאים אחרים בחשבון שלך, לא שומרת מהם דבר ולא שולחת לנו כלום. בטלפון נשמרת רק כתובת חשבון Google שאישר, כדי להציג אותה בהגדרות; את האישור עצמו מחזיקים שירותי Google Play בטלפון. אפשר לבטל את האישור בהגדרות (״לנתק״) או בחשבון Google.
+- **רישום בגיליון של Google**, אם בחרת: בפעם הראשונה שלוחצים ״לרשום״ בגיליון, Google מבקש ממך לאשר לאפליקציה גישה רק לקבצים ב-Drive שבוחרים בשבילה, ומציג את הגיליון הזה לבחירה: האפליקציה מגיעה רק לגיליונות שבחרת כך, לא לשאר הגיליונות והקבצים בחשבון שלך. היא כותבת רק כשלוחצים ״לרשום״: את הטקסט שאישרת, בתא ריק שבחרת, בגיליון שנשלח אליך — ישירות מהטלפון ל-Google. היא קוראת רק את התא הזה, כדי לוודא שהוא ריק ושהטקסט נכתב; ״לבטל״ מוחק ממנו את מה שהיא כתבה. היא לא קוראת תאים אחרים, לא שומרת מהגיליון דבר ולא שולחת לנו כלום. בטלפון נשמרים רק אילו גיליונות אישרת, וכתובת חשבון Google שאישר, כדי להציג אותה בהגדרות; את האישור עצמו מחזיקים שירותי Google Play בטלפון. אפשר לבטל את האישור בהגדרות (״לנתק״) או בחשבון Google.
 
-- **שיתוף בקבוצות**, אם יצרת קבוצת שיתוף או הצטרפת לאחת: מה שבחרת לשתף — משימות, אירועים ופריטים של רשימות — נשמר בגיליון ב-Google Drive של מי שיצר את הקבוצה, וכל חברי הקבוצה קוראים וכותבים בו, ישירות מהטלפון ל-Google. לשם כך Google מבקש ממך אישור לגיליונות, ולמי שיוצר קבוצה גם לקבצים שהאפליקציה עצמה יוצרת ב-Drive (לא לשאר הקבצים שלך). בגיליון נשמרים גם השם וכתובת ה-Google של כל חבר. מזמינים לפי כתובת Google: הגיליון משותף רק עם החשבונות שהזמנת, ולא עם מי שיש לו את הקישור; כתובת שבחרת מכרטיס איש קשר או הקלדת נשמרת בטלפון עם אותו אדם. אם כתבת לקבוצה מה לשתף בה, המודל שבטלפון מציע משימות ואירועים שנראים מתאימים, והם משותפים רק אם אישרת. יציאה מקבוצה מוחקת מהטלפון את מה ששותף בה; מחיקת קבוצה מעבירה את הגיליון לאשפה ב-Drive.
+- **שיתוף בקבוצות**, אם יצרת קבוצת שיתוף או הצטרפת לאחת: מה שבחרת לשתף — משימות, אירועים ופריטים של רשימות — נשמר בגיליון ב-Google Drive של מי שיצר את הקבוצה, וכל חברי הקבוצה קוראים וכותבים בו, ישירות מהטלפון ל-Google. לשם כך Google מבקש ממך אישור רק לקבצים ב-Drive שהאפליקציה עצמה יוצרת או שבוחרים בשבילה (לא לשאר הקבצים שלך): מי שיוצר קבוצה — לגיליון שהאפליקציה יוצרת; מי שמצטרף בוחר את הגיליון של הקבוצה במסך של Google. בגיליון נשמרים גם השם וכתובת ה-Google של כל חבר. מזמינים לפי כתובת Google: הגיליון משותף רק עם החשבונות שהזמנת, ולא עם מי שיש לו את הקישור; כתובת שבחרת מכרטיס איש קשר או הקלדת נשמרת בטלפון עם אותו אדם. אם כתבת לקבוצה מה לשתף בה, המודל שבטלפון מציע משימות ואירועים שנראים מתאימים, והם משותפים רק אם אישרת. יציאה מקבוצה מוחקת מהטלפון את מה ששותף בה; מחיקת קבוצה מעבירה את הגיליון לאשפה ב-Drive.
 
 השימוש של IFocus במידע שמתקבל מממשקי ה-API של Google, והעברתו לכל אפליקציה אחרת, יעמדו ב-[Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), כולל דרישות ה-Limited Use.
 
@@ -92,23 +92,27 @@ Everything can be deleted in Settings, and is deleted with the app.
   Only the request for the document is sent. This can be turned off in
   Settings.
 - **Signing up in a Google sheet**, if you choose to: the first time you tap
-  "לרשום" in a sheet, Google asks you to allow the app to edit your Google
-  Sheets. The app writes only when you tap "לרשום": the text you approved,
+  "לרשום" in a sheet, Google asks you to allow the app access only to the
+  Drive files you pick for it, and shows that sheet for you to pick: the app
+  can reach only the sheets you picked this way, not your other sheets and
+  files. The app writes only when you tap "לרשום": the text you approved,
   in an empty cell you chose, in a sheet that was sent to you — straight from
   the phone to Google. It reads only that cell, to check it's empty and that
   the text was written; "לבטל" (undo) clears what it wrote there. It doesn't
-  read other sheets or cells in your account, keeps nothing from them, and
-  sends nothing to us. The phone keeps only the address of the Google account
-  that gave the permission, to show it in Settings; the permission itself is
-  held by Google Play services on the phone. You can take it back in Settings
-  ("לנתק") or in your Google Account.
+  read other cells, keeps nothing from the sheet, and sends nothing to us.
+  The phone keeps only which sheets you allowed, and the address of the
+  Google account that gave the permission, to show it in Settings; the
+  permission itself is held by Google Play services on the phone. You can
+  take it back in Settings ("לנתק") or in your Google Account.
 
 - **Sharing with groups**, if you create a sharing group or join one: what
   you choose to share — tasks, events and list items — is kept in a sheet in
   the Google Drive of whoever created the group, which every member's app
   reads and writes, straight from the phone to Google. For this, Google asks
-  your permission for your sheets, and, to create a group, for the files the
-  app itself creates in Drive (not your other files). The sheet also holds
+  your permission only for the Drive files the app itself creates or that
+  you pick for it (not your other files): whoever creates a group, for the
+  sheet the app creates; whoever joins picks the group's sheet on Google's
+  screen. The sheet also holds
   each member's name and Google address. You invite people by their Google
   address: the sheet is shared only with the accounts you invite, never with
   anyone who has the link; an address you pick from a contact card or type

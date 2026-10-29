@@ -1,6 +1,6 @@
 # מדיניות פרטיות — IFocus
 
-עודכן: 22 באוקטובר 2026
+עודכן: 30 באוקטובר 2026
 
 IFocus מסכמת את השיחות וההודעות שלך עם האנשים שבחרת, ומזכירה לך מה ביקשו ממך. **הכול קורה בטלפון שלך: שום דבר לא נשלח אלינו.** מה שיוצא מהטלפון — רק מה שמפורט למטה, ב״חיבורים לרשת״.
 
@@ -11,6 +11,7 @@ IFocus מסכמת את השיחות וההודעות שלך עם האנשים ש
 - **הודעות קוליות, תמונות, סרטונים קצרים ומסמכים** שנשלחו בהן, מהתיקייה של וואטסאפ שבחרת או מוואטסאפ עצמו.
 - **מיילים ב-Gmail**, מההתראות שלהם (השולח, הנושא ותחילת המייל): מהאנשים שבחרת — כולם; משולחים אחרים — רק תורים, תשלומים ומועדים, בלי פרסומות. שולח שחסמת לא נקרא.
 - **מה שאמרת בקול**: המיקרופון מקליט רק כשלוחצים עליו — ״תזכורת קולית״, או המיקרופון בחיפוש ובעזרה. ברכב, או עם אוזניות Bluetooth, ההקלטה היא דרך המיקרופון שלהם. ההקלטה נכתבת בטלפון ונמחקת מיד.
+- **בקשות בקול**, רק אם הפעלת אותן בהגדרות: המיקרופון פתוח כל הזמן (או רק בשעות שבחרת), ו-Android מראה את זה בהתראה קבועה ובנקודה ירוקה. מודל בטלפון מקשיב למשפטים שמתחילים בשם שלך, ובודק אם הם בקול של אחד האנשים שבחרת; כשמישהו מהם מבקש ממך משהו, נוצרת לך משימה, עם המשפט שנאמר. שום דבר אחר ממה שנשמע לא נשמר ולא יוצא מהטלפון: הצליל נשמר בזיכרון רק 25 שניות, לבדיקה הזאת, ונזרק. הקולות של מי שבחרת נשמרים בטלפון כ״טביעת קול״ — מספרים, לא הקלטה — ואפשר להסיר כל אחד בהגדרות.
 - **רשימת הקניות ובני המשפחה** שהוספת (שמות, כינויים והקבוצות שקשורות אליהם) נשמרים בטלפון בלבד. הרשימה נשלחת רק כשלוחצים ״לשלוח״, למי שבוחרים.
 - **מה שכתבת** על כל אדם (מי הוא, מה חשוב לך).
 - **מה ששיתפת לאפליקציה** (תמונה, PDF, קובץ Word, ‏Excel או PowerPoint, קישור או טקסט): נקרא ונשמר בטלפון, עם ההודעות של האדם או הקבוצה שבחרת.
@@ -20,7 +21,7 @@ IFocus מסכמת את השיחות וההודעות שלך עם האנשים ש
 התמלולים, הסיכומים, התזכורות ופרטים ששווה לזכור נשמרים **רק בטלפון**, באחסון של האפליקציה. הודעות, סיכומים ותמלולים נשמרים שבוע; תזכורות ואירועים פתוחים נשמרים עד שמסמנים אותם. אפשר למחוק הכול בהגדרות, והכול נמחק עם הסרת האפליקציה.
 
 ## חיבורים לרשת
-- **הורדת המודלים** (לתמלול, לסיכום ולקריאת תמונות) בהפעלה הראשונה, מ-Hugging Face, ושל רשימת מילים בעברית (לזיהוי מילים ששמענו לא נכון) מ-GitHub. לא נשלח שום מידע עליך.
+- **הורדת המודלים** (לתמלול, לסיכום ולקריאת תמונות) בהפעלה הראשונה, מ-Hugging Face, ושל רשימת מילים בעברית (לזיהוי מילים ששמענו לא נכון) מ-GitHub; ואם הפעלת בקשות בקול, גם של מודל ההאזנה (של ivrit.ai), מ-Hugging Face. לא נשלח שום מידע עליך.
 - **וואטסאפ מקושר**, אם בחרת בו: האפליקציה מתחברת לשרתים של וואטסאפ בשם החשבון שלך, כמו וואטסאפ ווב, כדי לקבל את ההודעות. זה חיבור לא רשמי, ווואטסאפ עלולה להגביל אותו.
 - **קישורים למסמכים של Google** (Docs,‏ Sheets,‏ Slides, קבצים ב-Drive) בהודעות: האפליקציה מורידה את המסמך מ-Google כדי לקרוא אותו בטלפון, רק אם הוא פתוח לכל מי שיש לו את הקישור, ובלי חשבון. נשלחת רק הבקשה למסמך. אפשר לכבות את זה בהגדרות.
 - **רישום בגיליון של Google**, אם בחרת: בפעם הראשונה שלוחצים ״לרשום״ בגיליון, Google מבקש ממך לאשר לאפליקציה גישה רק לקבצים ב-Drive שבוחרים בשבילה, ומציג את הגיליון הזה לבחירה: האפליקציה מגיעה רק לגיליונות שבחרת כך, לא לשאר הגיליונות והקבצים בחשבון שלך. היא כותבת רק כשלוחצים ״לרשום״: את הטקסט שאישרת, בתא ריק שבחרת, בגיליון שנשלח אליך — ישירות מהטלפון ל-Google. היא קוראת רק את התא הזה, כדי לוודא שהוא ריק ושהטקסט נכתב; ״לבטל״ מוחק ממנו את מה שהיא כתבה. היא לא קוראת תאים אחרים, לא שומרת מהגיליון דבר ולא שולחת לנו כלום. בטלפון נשמרים רק אילו גיליונות אישרת, וכתובת חשבון Google שאישר, כדי להציג אותה בהגדרות; את האישור עצמו מחזיקים שירותי Google Play בטלפון. אפשר לבטל את האישור בהגדרות (״לנתק״) או בחשבון Google.
@@ -38,7 +39,7 @@ IFocus מסכמת את השיחות וההודעות שלך עם האנשים ש
 
 # Privacy policy — IFocus
 
-Updated: 22 October 2026
+Updated: 30 October 2026
 
 IFocus summarizes your calls and messages with the people you choose,
 and reminds you of what they asked of you. **Everything happens on your phone:
@@ -61,6 +62,16 @@ Only for the people and groups you chose to follow:
   "תזכורת קולית", or the microphone in search and in the help. In the car,
   or with Bluetooth headphones, it records through their microphone. The
   recording is written down on the phone and deleted right away.
+- **Requests said aloud**, only if you turn them on in Settings: the
+  microphone stays open all the time (or only in the hours you choose), and
+  Android shows it with a standing notification and a green dot. A model on
+  the phone listens for sentences that start with your name, and checks
+  whether they're in the voice of one of the people you chose; when one of
+  them asks you for something, a task is made for you, with the sentence
+  said. Nothing else of what's heard is kept or leaves the phone: the sound
+  is held in memory for 25 seconds, for this check, and dropped. The voices
+  of the people you chose are kept on the phone as voiceprints — numbers, not
+  recordings — and you can remove each in Settings.
 - **What you wrote** about each person (who they are, what matters to you).
 - **Your shopping list and family members** (names, nicknames and the groups
   linked to them), kept on the phone only. The list is sent only when you tap
@@ -83,7 +94,9 @@ Everything can be deleted in Settings, and is deleted with the app.
 ## Network use
 - **Downloading the models** (for transcribing, summaries and reading
   pictures) on first start, from Hugging Face, and a list of Hebrew words (to
-  tell words heard wrong) from GitHub. Nothing about you is sent.
+  tell words heard wrong) from GitHub; if you turn on requests said aloud,
+  the listening model too (ivrit.ai's), from Hugging Face. Nothing about you
+  is sent.
 - **Linked WhatsApp**, if you chose it: the app connects to WhatsApp's servers
   with your account, as WhatsApp Web does, to receive your messages. It's an
   unofficial connection, and WhatsApp may restrict it.
